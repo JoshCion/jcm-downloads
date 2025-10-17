@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sample — The Nexus Age (PDF)",
+    "title": "Sample \u2014 The Nexus Age (PDF)",
     "file": "vault/nexus-age-sample.pdf",
     "type": "pdf",
     "size": "2.7 MB",
     "version": "v1",
     "preview": true,
-    "cover": "",
+    "cover": "https://m.media-amazon.com/images/I/610R4BdaSnL._SL800_.jpg",
     "blurb": "First 3 chapters from the flagship."
   },
   {
@@ -16,7 +16,7 @@
     "size": "1.1 MB",
     "version": "v1",
     "preview": true,
-    "cover": "",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/449927fd-7296-464f-8b8b-37f26d486473_1024x1536.png",
     "blurb": "Core AUL symbols + usage at a glance."
   }
 ]
