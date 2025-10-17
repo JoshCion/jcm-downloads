@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Sample — The Nexus Age (PDF)",
+    "file": "vault/nexus-age-sample.pdf",
+    "type": "pdf",
+    "size": "2.7 MB",
+    "version": "v1",
+    "preview": true,
+    "cover": "",
+    "blurb": "First 3 chapters from the flagship."
+  },
+  {
+    "title": "AUL Quick Sheet",
+    "file": "vault/aul-quick-sheet.pdf",
+    "type": "pdf",
+    "size": "1.1 MB",
+    "version": "v1",
+    "preview": true,
+    "cover": "",
+    "blurb": "Core AUL symbols + usage at a glance."
+  }
+]
