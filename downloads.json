@@ -1,13 +1,11 @@
 [
   {
-    "title": "Sample \u2014 The Nexus Age (PDF)",
+    "title": "Sample - The Nexus Age (PDF)",
     "file": "vault/nexus-age-sample.pdf",
     "type": "pdf",
     "size": "2.7 MB",
     "version": "v1",
-    "preview": true,
-    "cover": "https://m.media-amazon.com/images/I/610R4BdaSnL._SL800_.jpg",
-    "blurb": "First 3 chapters from the flagship."
+    "cover": "https://m.media-amazon.com/images/I/610R4BdaSnL._SL800_.jpg"
   },
   {
     "title": "AUL Quick Sheet",
@@ -15,8 +13,20 @@
     "type": "pdf",
     "size": "1.1 MB",
     "version": "v1",
-    "preview": true,
-    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/449927fd-7296-464f-8b8b-37f26d486473_1024x1536.png",
-    "blurb": "Core AUL symbols + usage at a glance."
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/449927fd-7296-464f-8b8b-37f26d486473_1024x1536.png"
+  },
+  {
+    "title": "Bestseller Building (PDF)",
+    "file": "vault/bestseller-building-STANDARD.pdf",
+    "type": "pdf",
+    "version": "v1",
+    "cover": "https://cdn.jsdelivr.net/gh/JoshCion/jcm-downloads@main/vault/ChatGPT%20Image%20Jan%204%2C%202026%2C%2005_50_06%20PM.png"
+  },
+  {
+    "title": "Bestseller Building (EPUB)",
+    "file": "vault/bestseller-building.epub",
+    "type": "epub",
+    "version": "v1",
+    "cover": "https://cdn.jsdelivr.net/gh/JoshCion/jcm-downloads@main/vault/ChatGPT%20Image%20Jan%204%2C%202026%2C%2005_50_06%20PM.png"
   }
 ]
